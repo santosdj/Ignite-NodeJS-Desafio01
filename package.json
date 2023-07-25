@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_desafio_01",
+  "version": "1.0.0",
+  "description": "Ignite - Desafio 01 - API Tasks",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node --watch src/server.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "desafio;api;crud"
+  ],
+  "author": "Darcio Santos",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.4.0"
+  }
+}
